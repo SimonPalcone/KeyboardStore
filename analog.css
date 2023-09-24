@@ -1,0 +1,60 @@
+html body{
+    font-size: 80%;
+    font-family: courier new,. courier, monospace;
+    letter-spacing: 0.15em;
+    background-color: rgb(228, 226, 226);
+    }
+    
+    #page{
+    max-width: 940px;
+    min-width: 720px;
+    margin: 10px auto 10px auto;
+    padding: 20px;
+    border: 4px double #2d18e6;
+    background-color: rgb(0, 0, 0);
+    }
+    
+    #logo{
+    width: 150px;
+    margin: 10px 10px 5px 260px;
+    }
+
+    #navigation{
+        font-family: fantasy;
+        color: rgb(228, 226, 226);
+    }
+    
+    ul{
+    width: 570px;
+    padding: 15px;
+    margin: 0px auto 0px auto;
+    border-top: 2px solid #df32df;
+    border-bottom: 1px solid #2645f5;
+    text-align: center;
+    }
+    
+    li{
+    display: inline;
+    margin: 0px 3px;
+    }
+    
+    p {
+    text-align: center;
+    width: 600px;
+    margin: 20px auto 20px auto;
+    font-weight: normal;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    
+    a{ 
+    color: #dfd5d5;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 6px 18px 5px 18px;
+    }
+    
+    a:hover, a.off{
+    color: rgb(10, 8, 8);
+    background-color: #c591f0;
+    }
